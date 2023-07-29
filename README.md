@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KrishnaVhatkar
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in FullStack Developmenet
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me from mail krushnavhatkar1212@gmail.com
 
 <!---
